@@ -46,13 +46,9 @@ Passionate about building user-centric, visually engaging web applications that 
 
 ## 📊 GitHub Stats
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" /&gt;
-&lt;/p&gt;
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" alt="GitHub Streak" /&gt;
-&lt;/p&gt;
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true)
 
 ---
 
